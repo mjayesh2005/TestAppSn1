@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="One Issue Table" max_length="40" name="x_7644_one_issue_table" sizeclass="3" type="collection"/>
+</database>
